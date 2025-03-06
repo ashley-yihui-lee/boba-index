@@ -1,0 +1,12 @@
+country,city,currency_code,local_price,dollar_ex
+Japan,Tokyo,JPY,900,150.62
+Australia,Sydney,AUD,10.3,1.61
+China,Beijing,CNY,20,7.28
+Taiwan,Taipei,TWD,70,32.92
+United States,New York,USD,6.25,1
+United States,Los Angeles,USD,6,1
+United Kingdom,London,GBP,6.21,0.8
+Singapore,Singapore,SGD,6.6,1.35
+Mexico,Mexico City,MXN,108,20.55
+South Korea,Seoul,KRW,6300,1461.80
+Philippines,Manila,PHP,125,57.94

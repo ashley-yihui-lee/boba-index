@@ -1,0 +1,12 @@
+{
+    "fonts": [
+        {
+            "aifont": "Lora-SemiBold",
+            "family": "Lora-SemiBold"
+        },
+        {
+            "aifont": "Lora-Bold",
+            "family": "Lora-Bold"
+        }
+    ]
+}
