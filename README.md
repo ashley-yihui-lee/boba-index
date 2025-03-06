@@ -1,10 +1,10 @@
 # Boba Index
 
 ## Overview
-The **Boba Index** is a project that analyzes the price of bubble tea across different cities to measure **purchasing power parity (PPP)** and economic trends. Inspired by the Big Mac Index and the Soup Dumpling Index, this dataset provides insights into how local currency values, demand elasticity, and cost structures affect the affordability of boba worldwide.
+The **Boba Index** is a project that analyzes the price of bubble tea across different cities to measure **purchasing power parity (PPP)** and economic trends. Inspired by the Big Mac Index, this dataset provides insights into how local currency values, demand elasticity, and cost structures affect the affordability of boba worldwide.
 
 ## Dataset
-The pricing data was sourced from Uber Eats and Foodpanda, two major food delivery apps. These platforms provide real-time pricing from various vendors, ensuring accurate and up-to-date comparisons.
+The pricing data was sourced from food delievery apps, including Uber Eats, Foodpanda and Meituan. These platforms provide real-time pricing from various vendors, ensuring accurate and up-to-date comparisons.
 The dataset includes:
 - **City**: The location where the price was recorded
 - **Currency Code**: The local currency used
