@@ -29,6 +29,3 @@ The dataset includes:
 - **Most Expensive Cities**: London ($7.76) and Sydney ($6.40) indicate higher costs due to rent and labor.
 - **Most Affordable Cities**: Taipei ($2.13) and Manila ($2.16) suggest stronger purchasing power in local currencies.
 - **Demand Elasticity**: High-income cities like New York and London sustain premium prices, while competitive markets like Taipei keep prices low.
-
----
-*Sip your way through economics with the Boba Index!*
